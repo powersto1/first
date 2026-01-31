@@ -65,3 +65,7 @@
 28.01 мороз -13, вчера сделали декларации
 29 января -3
 30 января
+On branch develop
+Your branch is up to date with 'origin/develop'.
+
+nothing to commit, working tree clean
