@@ -84,3 +84,4 @@ nothing to commit, working tree clean
 04.02 др
 05.02
 06.02
+08.02 выходной
