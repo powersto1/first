@@ -85,3 +85,4 @@ nothing to commit, working tree clean
 05.02
 06.02
 08.02 выходной
+09.02 отправил резюме
